@@ -1,5 +1,7 @@
 import boto3 as b
-import logging_module
+
+from helpers import logging_module
+
 
 def create_bucket (bucket_name,s3_client,bucket_region):
 

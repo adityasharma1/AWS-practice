@@ -1,7 +1,6 @@
-import boto3 as b
 import json
 from datetime import datetime
-import logging_module
+
 
 def main():
     #cfn_client = b.client('cloudformation')
