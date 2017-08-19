@@ -1,0 +1,1 @@
+{"Resources": {"set of resources": ""}, "Parameters": {"set of parameters": ""}, "Conditions": {"set of conditions": ""}, "Mappings": {"set of mappings": ""}, "Transform": {"set of transforms": ""}, "Outputs": {"set of outputs": ""}, "AWSTemplateFormatVersion": "20170619-174409", "Description": "test CFN", "Metadata": {"template metadata": ""}}
